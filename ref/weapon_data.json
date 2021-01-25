@@ -1,0 +1,74 @@
+{
+    "SwordWeapon": {
+        "DisplayName": "Stygian Blade",
+        "DisplayName_Full": "Stygius",
+        "DisplayName_Short": "Sword",
+        "AspectDict": {
+            "SwordBaseUpgradeTrait": "Aspect of Zagreus",
+            "SwordCriticalParryTrait": "Aspect of Nemesis",
+            "DislodgeAmmoTrait": "Aspect of Poseidon",
+            "SwordConsecrationTrait": "Aspect of Arthur",
+            "default": "Aspect of Zagreus"
+        }
+    },
+    "SpearWeapon": {
+        "DisplayName": "Eternal Spear",
+        "DisplayName_Full": "Varatha",
+        "DisplayName_Short": "Spear",
+        "AspectDict": {
+            "SpearBaseUpgradeTrait": "Aspect of Zagreus",
+            "SpearTeleportTrait": "Aspect of Achilles",
+            "SpearWeaveTrait": "Aspect of Hades",
+            "SpearSpinTravel": "Aspect of Guan Yu",
+            "default": "Aspect of Zagreus"
+        }
+    },
+    "ShieldWeapon": {
+        "DisplayName": "Shield Of Chaos",
+        "DisplayName_Full": "Aegis",
+        "DisplayName_Short": "shield",
+        "AspectDict": {
+            "ShieldBaseUpgradeTrait": "Aspect of Zagreus",
+            "ShieldTwoShieldTrait": "Aspect of Zeus",
+            "ShieldRushBonusProjectileTrait": "Aspect of Chaos",
+            "ShieldLoadAmmoTrait": "Aspect of Beowulf",
+            "default": "Aspect of Zagreus"
+        }
+    },
+    "BowWeapon": {
+        "DisplayName": "Heart Seeking Bow",
+        "DisplayName_Full": "Coronacht",
+        "DisplayName_Short": "Bow",
+        "AspectDict": {
+            "BowBaseUpgradeTrait": "Aspect of Zagreus",
+            "BowLoadAmmoTrait": "Aspect of Hera",
+            "BowMarkHomingTrait": "Aspect of Chiron",
+            "BowBondTrait": "Aspect of Rama",
+            "default": "Aspect of Zagreus"
+        }
+    },
+    "FistWeapon": {
+        "DisplayName": "Twin Fists",
+        "DisplayName_Full": "Malphon",
+        "DisplayName_Short": "Fists",
+        "AspectDict": {
+            "FistBaseUpgradeTrait": "Aspect of Zagreus",
+            "FistVacuumTrait": "Aspect of Talos",
+            "FistWeaveTrait": "Aspect of Demeter",
+            "FistDetonateTrait": "Aspect of Gilgamesh",
+            "default": "Aspect of Zagreus"
+        }
+    },
+    "GunWeapon": {
+        "DisplayName": "Adamant Rail",
+        "DisplayName_Full": "Exagryph",
+        "DisplayName_Short": "Rail",
+        "AspectDict": {
+            "GunBaseUpgradeTrait": "Aspect of Zagreus",
+            "GunManualReloadTrait": "Aspect of Hestia",
+            "GunGrenadeSelfEmpowerTrait": "Aspect of Eris",
+            "GunLoadedGrenadeTrait": "Aspect of Lucifer",
+            "default": "Aspect of Zagreus"
+        }
+    }
+}
