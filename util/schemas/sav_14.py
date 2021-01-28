@@ -4,7 +4,7 @@ import zlib
 
 from construct import *
 
-from constant import FILE_SIGNATURE, SAVE_DATA_V14_LENGTH
+from ..constant import FILE_SIGNATURE, SAVE_DATA_V14_LENGTH
 
 sav14_save_data_schema = Struct(
     "version" / Int32ul,

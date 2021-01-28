@@ -26,7 +26,7 @@
     "ShieldWeapon": {
         "DisplayName": "Shield Of Chaos",
         "DisplayName_Full": "Aegis",
-        "DisplayName_Short": "shield",
+        "DisplayName_Short": "Shield",
         "AspectDict": {
             "ShieldBaseUpgradeTrait": "Aspect of Zagreus",
             "ShieldTwoShieldTrait": "Aspect of Zeus",

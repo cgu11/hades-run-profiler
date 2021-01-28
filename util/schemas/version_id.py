@@ -2,7 +2,7 @@
 
 from construct import *
 
-from constant import FILE_SIGNATURE
+from ..constant import FILE_SIGNATURE
 
 version_identifier_schema = Struct(
     "signature" / Const(FILE_SIGNATURE),

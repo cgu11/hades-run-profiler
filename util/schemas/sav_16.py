@@ -5,7 +5,7 @@ import zlib
 
 from construct import *
 
-from constant import FILE_SIGNATURE
+from ..constant import FILE_SIGNATURE
 
 sav16_save_data_schema = Struct(
     "version" / Int32ul,
